@@ -9,6 +9,7 @@ namespace Tyuiu.SklyarovAM.Sprint5.Task0.V7.Test
         [TestMethod]
         public void TestMethod1()
         {
+
         }
     }
 }
